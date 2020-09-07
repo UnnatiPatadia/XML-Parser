@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<records>
+    <employee>
+        <name>Sachin Kumar</name>
+        <salary>50000</salary>
+    </employee>
+    <employee>
+        <name>Rahul Kumar</name>
+        <salary>60000</salary>
+    </employee>
+    <employee>
+        <name>John Mike</name>
+        <salary>70000</salary>
+    </employee>
+    <employee>
+        <name>Emma Mike</name>
+        <salary>90000</salary>
+    </employee>
+    <employee>
+        <name>Riya Patel</name>
+        <salary>40000</salary>
+    </employee>
+</records>
